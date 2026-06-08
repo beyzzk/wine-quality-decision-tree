@@ -187,7 +187,6 @@ Bu çalışmanın Baseline modeli **%69.7** ile bu değeri geçmektedir.
 
 ---
 
-## 📄 Lisans
+## 📄 Veri
 
-Bu proje eğitim amaçlı hazırlanmıştır.  
 Veri seti: [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) — Cortez et al. (2009)
